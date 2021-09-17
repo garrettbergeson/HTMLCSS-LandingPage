@@ -137,10 +137,11 @@ section {
 .account {
     text-align: right;
     padding: 15px;
-    font: 18px #364147;
+    font-size: 18px;
+    color: #364147;
 }
 
-.account li a {
+.account a {
     font-size: 14px;
 }
 
