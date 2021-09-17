@@ -172,7 +172,7 @@ section {
     color: #faa541;
 }
 
-div.hero h1, .hero h2 {
+.hero h1, .hero h2 {
     font-size: 63px;
     font-weight: 700px;
     line-height: 0.9;
@@ -207,7 +207,7 @@ div.hero h1, .hero h2 {
 
 .banner-text > div:last-child {
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 400;
     margin-top: 5px;
 }
 
